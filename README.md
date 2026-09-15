@@ -7,11 +7,11 @@ Stable Android releases for **The Islamic Dilemma**, an offline-first research a
 Download the latest stable APK from the [releases page](https://github.com/mcographics/Islamic-Dilemma-Production/releases/latest). The matching AAB and SHA-256 sidecars are included for verification and future managed-distribution decisions.
 
 - Package: `com.majesticcreations.islamicdilemma`
-- Current stable version: `0.2.1`
-- Android version code: `20001`
-- Release tag: `v0.2.1`
+- Current stable version: `0.2.2`
+- Android version code: `20002`
+- Release tag: `v0.2.2`
 - Update channel used by the stable app: `mcographics/Islamic-Dilemma-Production`
-- Patch focus: reliable offline Bible full-text search loading and results
+- Patch focus: reliable Android system Back navigation through nested research routes
 
 ## Verification
 
